@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: larcrist <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/28 21:54:01 by larcrist          #+#    #+#             */
-/*   Updated: 2022/07/28 21:59:58 by larcrist         ###   ########.fr       */
+/*   Created: 2022/07/29 02:38:20 by larcrist          #+#    #+#             */
+/*   Updated: 2022/07/29 02:40:08 by larcrist         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ void	ft_putnbr(int nb)
 	}
 	else if (nb < 0)
 	{
-		ft_putnbr('-');
+		ft_putchar('-');
 		nb = -nb;
 		ft_putnbr(nb);
 	}
@@ -37,5 +37,5 @@ void	ft_putnbr(int nb)
 		ft_putnbr(nb % 10);
 	}
 	else
-		ft_putchar (nb + 48);
+		ft_putchar(nb + 48);
 }
