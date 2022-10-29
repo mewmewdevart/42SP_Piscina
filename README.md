@@ -1,18 +1,20 @@
 <h1 align="center">
-  🏊‍♀️ <br> 42SP Piscina
+ 42SP_Piscine 🏊‍♀️
 </h1>
 
-![banner](https://user-images.githubusercontent.com/50052600/182502624-067f5939-4f9f-4902-b7c5-354d51059853.jpg)
-<h4 align="center">
-  42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills.
-</h4>
-
-
-#### 🐬 EXPERIENCE
-<p> The codes displayed in this repository are part of the exercises I developed during Piscine/July - 2022.
+<p align="center">
+	<b><i>This repository contains coding developed at 42Saopaulo's C bootcamp (also known as Piscine).</i></b><br>
 </p>
 
-#### ⚙️ HARD SKILLS :
-C Language, Shell and Git
-#### ⚡ SOFT SKILLS :
-Self-learning and proactiveness, teamwork, time management and resiliency.
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/libft?color=29B6F6" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/libft?color=29B6F6"/>
+	<img alt="Main language" src="https://img.shields.io/github/license/mewmewdevart/libft?color=29B6F6"/>
+	<img alt="Number of lines" src="https://img.shields.io/tokei/lines/github/mewmewdevart/libft?color=29B6F6"/>
+</p>
+
+## 💡 About the project
+
+> _42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student).
+
+<p align="center"> Developed with love 💙 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
