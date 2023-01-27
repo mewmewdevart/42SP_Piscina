@@ -26,6 +26,11 @@
 	<a href="https://github.com/mewmewdevart/42Projects">See my projects in "Cadet" life🚀🌎</a> 
 </p>
 
+<p align="center">
+I already participated in the selection process and did not pass. <br>
+	<a href="https://github.com/mewmewdevart/42Projects">See my first try to participate in 42 School in basecamp process. ⛺</a> 
+</p>
+
 ## Skills developed at Piscine 🏊‍♀️
 
 ### Hard-skills
